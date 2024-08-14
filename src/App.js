@@ -6,7 +6,7 @@ import Home from './components/Home';
 import View from './components/View';
 import Edit from './components/edit.js'; // Ensure this is correctly implemented
 import ProtectedRoute from './components/ProtectedRoute'; // Ensure this is correctly implemented
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
